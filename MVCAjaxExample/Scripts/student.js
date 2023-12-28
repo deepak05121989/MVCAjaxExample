@@ -129,7 +129,6 @@ function Delele(ID) {
     }
 }
 function clearTextBox() {
-    alert("hi");
     $('#ID').val("");
     $('#Name').val("");
     $('#Age').val("");
